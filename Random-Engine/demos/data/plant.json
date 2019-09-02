@@ -1,0 +1,16 @@
+{
+  "scenename":"tech02",
+  "gameobjects": [{
+    "uniqueId":0,
+    "name":"plant",
+    "position":[25,7.5,0],
+    "rotationEuler":[0,0,0],
+    "scale":[1,1,1],
+    "bodyShape":"box",
+    "bodyType":"dynamic",
+    "spriteNameInAtlas":"green_plant_0",
+    "spriteColor":[1, 1, 1, 1],
+    "spriteScale":[0.07, 0.07, 1],
+    "parentId":-1
+  }]
+}
