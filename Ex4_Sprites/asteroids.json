@@ -1,0 +1,66 @@
+{"frames": [
+
+{
+	"filename": "bang.png",
+	"frame": {"x":89,"y":75,"w":120,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":89},
+	"sourceSize": {"w":120,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "laserRed01.png",
+	"frame": {"x":71,"y":0,"w":9,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":54},
+	"sourceSize": {"w":9,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "meteorBrown_big3.png",
+	"frame": {"x":0,"y":75,"w":89,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":82},
+	"sourceSize": {"w":89,"h":82},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "meteorBrown_med1.png",
+	"frame": {"x":28,"y":0,"w":43,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":43},
+	"sourceSize": {"w":43,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "meteorBrown_small1.png",
+	"frame": {"x":0,"y":0,"w":28,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+	"sourceSize": {"w":28,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "playerShip1_orange.png",
+	"frame": {"x":80,"y":0,"w":99,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":75},
+	"sourceSize": {"w":99,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "asteroids.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:711bc300dcd75803bd5f1e4b5867f13b:7b78fcb39293ddfd4f940ba858c6896c:3cb2167982f406a3d6627570b02f9be7$"
+}
+}

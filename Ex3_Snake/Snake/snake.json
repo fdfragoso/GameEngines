@@ -1,0 +1,48 @@
+{"frames": [
+
+{
+	"filename": "background.png",
+	"frame": {"x":0,"y":125,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "berry.png",
+	"frame": {"x":25,"y":0,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "brick.png",
+	"frame": {"x":0,"y":25,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "snake-body.png",
+	"frame": {"x":0,"y":0,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "snake.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cd5cd37b25c46d5ddb72ef6df21cbb21:adc366f93c89ebaef6c43ef0009c9890:2a194967d71da88bdc69ff162da0bdf1$"
+}
+}

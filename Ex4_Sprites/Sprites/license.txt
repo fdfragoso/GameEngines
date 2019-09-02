@@ -1,0 +1,19 @@
+
+Bang sprite is copied from http://www.startupdaily.net/2012/11/how-to-finish-the-year-with-a-bang/ without permission.
+No not publish!
+
+The remaining sprites are:
+
+###############################################################################
+
+	Space Shooter (Redux, plus fonts and sounds) by Kenney Vleugels (www.kenney.nl)
+
+			------------------------------
+
+			        License (CC0)
+	       http://creativecommons.org/publicdomain/zero/1.0/
+
+	You may use these graphics in personal and commercial projects.
+	Credit (Kenney or www.kenney.nl) would be nice but is not mandatory.
+
+###############################################################################
